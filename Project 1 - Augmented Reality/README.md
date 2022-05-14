@@ -38,5 +38,5 @@ Please find the output video links below:
 ### 4. Cube Imposition on tag
 [![Cube Imposition on tag](https://img.youtube.com/vi/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
 
-### 5. Bonus! Blooper Reel
+### 5. BONUS! Blooper Reel
 [![Bonus! Blooper Reel](https://img.youtube.com/vi/cD1I4kXAkUM/0.jpg)](https://youtu.be/cD1I4kXAkUM)
