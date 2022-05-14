@@ -14,6 +14,8 @@ The code for parts 1a, 1b, and 2a is titled 'prj1_q1a.py'. For Running this code
 
 The code for part 2b is titled 'cube.py' and runs in the exact same way, without the need for the 'testudo.png' image.
 
+Note: If the code is clones, please ensure that you check the paths in the codes as input data has not been Uploaded.
+
 
 ## Output video links
 
