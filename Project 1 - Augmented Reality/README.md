@@ -1,6 +1,12 @@
 =======
 # Project-1---Augmented-Reality
 
+## Project Description
+
+In this project, we were provided with a video that had a fiducial marker. We were tasked with imposing an image and a cube onto this tag. The approach for doin this is detailed in the report.
+
+## Running instructions
+
 This is my submission for the first project for the Subject ENPM 673 for the SPring 2022 semester.
 
 Part 1a,1b and 2a:
