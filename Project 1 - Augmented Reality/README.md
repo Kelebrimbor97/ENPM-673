@@ -19,7 +19,8 @@ The code for part 2b is titled 'cube.py' and runs in the exact same way, without
 
 Please find the output video links below:
 
-### 1. [![Morphological Operations](https://img.youtube.com/vi/K2lSg51COJ0/0.jpg)](https://youtu.be/K2lSg51COJ0)
+### 1. Morphological Operations
+[![Morphological Operations](https://img.youtube.com/vi/K2lSg51COJ0/0.jpg)](https://youtu.be/K2lSg51COJ0)
 
 ### 2. [![Ordered Corner Detection](https://img.youtube.com/vi/vW_rvp5WV1s/0.jpg)](https://youtu.be/vW_rvp5WV1s)
 
