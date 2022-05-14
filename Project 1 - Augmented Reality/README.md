@@ -22,10 +22,14 @@ Please find the output video links below:
 ### 1. Morphological Operations
 [![Morphological Operations](https://img.youtube.com/vi/K2lSg51COJ0/0.jpg)](https://youtu.be/K2lSg51COJ0)
 
-### 2. [![Ordered Corner Detection](https://img.youtube.com/vi/vW_rvp5WV1s/0.jpg)](https://youtu.be/vW_rvp5WV1s)
+### 2. Ordered Corner Detection
+[![Ordered Corner Detection](https://img.youtube.com/vi/vW_rvp5WV1s/0.jpg)](https://youtu.be/vW_rvp5WV1s)
 
-### 3. [![Image Imposition on tag](https://img.youtube.com/vi/-3TvXzFVbGk/0.jpg)](https://youtu.be/-3TvXzFVbGk)
+### 3. Image Imposition on tag
+[![Image Imposition on tag](https://img.youtube.com/vi/-3TvXzFVbGk/0.jpg)](https://youtu.be/-3TvXzFVbGk)
 
-### 4. [![Cube Imposition on tag](https://img.youtube.com/vi/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
+### 4. Cube Imposition on tag
+[![Cube Imposition on tag](https://img.youtube.com/vi/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
 
-### 5. [![Bonus! Blooper Reel](https://img.youtube.com/vi/cD1I4kXAkUM/0.jpg)](https://youtu.be/cD1I4kXAkUM)
+### 5. Bonus! Blooper Reel
+[![Bonus! Blooper Reel](https://img.youtube.com/vi/cD1I4kXAkUM/0.jpg)](https://youtu.be/cD1I4kXAkUM)
