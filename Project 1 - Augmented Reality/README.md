@@ -20,7 +20,7 @@ The code for part 2b is titled 'cube.py' and runs in the exact same way, without
 Please find the output video links below:
 
 ### 1. [![Morphological Operations](https://img.youtube.com/vi/K2lSg51COJ0/0.jpg)](https://youtu.be/K2lSg51COJ0)
-### 2. [![Ordered Corner Detection](https://youtu.be/vW_rvp5WV1s/0.jpg)](https://youtu.be/vW_rvp5WV1s)
-### 3. [![Image Imposition on tag](https://youtu.be/-3TvXzFVbGk/0.jpg)](https://youtu.be/-3TvXzFVbGk)
-### 4. [![Cube Imposition on tag](https://youtu.be/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
-### 5. [![Bonus! Blooper Reel](https://youtu.be/cD1I4kXAkUM/0.jpg)](https://youtu.be/cD1I4kXAkUM)
+### 2. [![Ordered Corner Detection](https://img.youtube.com/vivW_rvp5WV1s/0.jpg)](https://youtu.be/vW_rvp5WV1s)
+### 3. [![Image Imposition on tag](https://img.youtube.com/vi/-3TvXzFVbGk/0.jpg)](https://youtu.be/-3TvXzFVbGk)
+### 4. [![Cube Imposition on tag](https://img.youtube.com/vi/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
+### 5. [![Bonus! Blooper Reel](https://img.youtube.com/vi/cD1I4kXAkUM/0.jpg)](https://youtu.be/cD1I4kXAkUM)
