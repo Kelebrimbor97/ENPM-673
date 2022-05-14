@@ -1,5 +1,5 @@
 =======
-# ENPM-673---Project-1---Augmented-Reality
+# Project-1---Augmented-Reality
 
 This is my submission for the first project for the Subject ENPM 673 for the SPring 2022 semester.
 
