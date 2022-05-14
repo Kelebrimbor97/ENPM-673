@@ -9,6 +9,5 @@ Simply change the name of the dataset to be tested in line 401 in the code p1.py
 ## Output Examples
 
 1. Depth Maps
-  a. Curule
-  
-  (https://raw.githubusercontent.com/Kelebrimbor97/ENPM-673-Perception-for-Autonomous-Robotics/master/Project%203%20-%20Depth%20Estimation/Output/Depth_Map_curule.png)
+
+![Curule](https://github.com/Kelebrimbor97/ENPM-673-Perception-for-Autonomous-Robotics/blob/51d5c6d671201d9beea2cb524280a245c9bf7205/Project%203%20-%20Depth%20Estimation/Output/Depth_Map_curule.png)
