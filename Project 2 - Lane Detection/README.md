@@ -26,3 +26,9 @@ Provide input or output paths if required. Default paths within project director
   
 ### 3. Warped Lanes
 [![Warped Lanes](https://img.youtube.com/vi/qWIDrhfOeQ4/0.jpg)](https://youtu.be/qWIDrhfOeQ4)
+
+### 4. Sliding Window Output
+[![Sliding Window Output](https://img.youtube.com/vi/SXZhIh9PfuU/0.jpg)](https://youtu.be/SXZhIh9PfuU)
+  
+### 5. Lane Detection
+[![Lane Detection](https://img.youtube.com/vi/G_Rur_1il5k/0.jpg)](https://youtu.be/G_Rur_1il5k)
