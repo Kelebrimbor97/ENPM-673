@@ -1,4 +1,3 @@
-=======
 # Project-1---Augmented-Reality
 
 ## Project Description
