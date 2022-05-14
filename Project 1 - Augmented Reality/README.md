@@ -15,3 +15,12 @@ The code for parts 1a, 1b, and 2a is titled 'prj1_q1a.py'. For Running this code
 The code for part 2b is titled 'cube.py' and runs in the exact same way, without the need for the 'testudo.png' image.
 
 
+## Output video links
+
+Please find the output video links below:
+
+1. Morphological Operations - https://youtu.be/K2lSg51COJ0
+2. Ordered Corner Detection - https://youtu.be/vW_rvp5WV1s
+3. Image Imposition on tag - https://youtu.be/-3TvXzFVbGk
+4. Cube Imposition on tag - https://youtu.be/iCmC9NynMJg
+5. Bonus! Blooper Reel - https://youtu.be/cD1I4kXAkUM
