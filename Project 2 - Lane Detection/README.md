@@ -1,4 +1,4 @@
-# Instructions
+# Project 2 - Lane Detection
 Navigate to project directory and put the required videos and images in it.
 
 Run codes in the 'code' folder individually.
