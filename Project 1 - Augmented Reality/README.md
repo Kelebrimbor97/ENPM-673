@@ -19,21 +19,16 @@ The code for parts 1a, 1b, and 2a is titled 'prj1_q1a.py'. For Running this code
 
 The code for part 2b is titled 'cube.py' and runs in the exact same way, without the need for the 'testudo.png' image.
 
-Note: If the code is clones, please ensure that you check the paths in the codes as input data has not been Uploaded.
-
-
-## Output video links
-
-Please find the output video links below:
+Note: If the code is cloned, please ensure that you check the paths in the codes as input data has not been Uploaded. To view the video click the GIFs to be redirected to their youtube uploads.
 
 ### 1. Morphological Operations
 
-Basic morphological operations are performed on the video to isolate the QR code. The output for which is what we see below. [(Video link)](https://youtu.be/K2lSg51COJ0)
+Basic morphological operations are performed on the video to isolate the QR code. The output for which is what we see below.
 
 [![Morphological_Image_processing_AdobeExpress](https://user-images.githubusercontent.com/35636842/218368728-35bad771-17fc-4388-a5d9-7d82de198b73.gif)](https://youtu.be/K2lSg51COJ0)
 
 ### 2. Ordered Corner Detection
-[![Ordered Corner Detection](https://img.youtube.com/vi/vW_rvp5WV1s/0.jpg)](https://youtu.be/vW_rvp5WV1s)
+[![ezgif com-optimize](https://user-images.githubusercontent.com/35636842/218370397-a4d85010-2d91-48cc-bdc0-b21f8113ec73.gif)](https://youtu.be/vW_rvp5WV1s)
 
 ### 3. Image Imposition on tag
 [![Image Imposition on tag](https://img.youtube.com/vi/-3TvXzFVbGk/0.jpg)](https://youtu.be/-3TvXzFVbGk)
