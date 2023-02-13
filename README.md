@@ -20,4 +20,4 @@ Lane Detection for Autonomous Vehicles
 
 Basic Stereo Vision for depth estimation
 
-![Pendulum]<https://github.com/Kelebrimbor97/ENPM-673-Perception-for-Autonomous-Robotics/blob/a4a6597ebaf2d5ade34e9a8446b770a94cc50c10/Project%203%20-%20Depth%20Estimation/Output/Disparity_map_pendulum.png>
+![Pendulum]<img src="[https://your-image-url.type](https://github.com/Kelebrimbor97/ENPM-673-Perception-for-Autonomous-Robotics/blob/a4a6597ebaf2d5ade34e9a8446b770a94cc50c10/Project%203%20-%20Depth%20Estimation/Output/Disparity_map_pendulum.png)" width="100" height="100">
