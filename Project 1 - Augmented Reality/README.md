@@ -40,7 +40,13 @@ Finally, we impose the image onto the marker.
 [![Testudo_Imposition_on_Fiducial_Marker](https://user-images.githubusercontent.com/35636842/218371698-48caacd1-4087-48ff-880e-47d440ba41d6.gif)](https://youtu.be/-3TvXzFVbGk)
 
 ### 4. Cube Imposition on tag
-[![Cube Imposition on tag](https://img.youtube.com/vi/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
+
+The next step is to 'place' an AR cube onto the marker.
+
+[![AR_Cube](https://user-images.githubusercontent.com/35636842/218374017-6fa83d84-e12b-4b27-9abc-ddf9ce52e645.gif)](https://youtu.be/iCmC9NynMJg)
 
 ### 5. BONUS! Blooper Reel
-[![Bonus! Blooper Reel](https://img.youtube.com/vi/cD1I4kXAkUM/0.jpg)](https://youtu.be/cD1I4kXAkUM)
+
+A funny blooper.
+
+[![Blooper](https://user-images.githubusercontent.com/35636842/218374449-882eee1e-1497-49ea-9e4b-93c045fd401e.gif)](https://youtu.be/cD1I4kXAkUM)
