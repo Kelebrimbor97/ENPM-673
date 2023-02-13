@@ -43,7 +43,7 @@ Finally, we impose the image onto the marker.
 
 The next step is to 'place' an AR cube onto the marker.
 
-[![AR_Cube](https://user-images.githubusercontent.com/35636842/218374017-6fa83d84-e12b-4b27-9abc-ddf9ce52e645.gif)](https://youtu.be/iCmC9NynMJg)
+[![AR_Cube](https://user-images.githubusercontent.com/35636842/218374945-bb989b26-c364-4092-bb98-1c3dd0372558.gif)](https://youtu.be/iCmC9NynMJg)
 
 ### 5. BONUS! Blooper Reel
 
