@@ -31,6 +31,7 @@ Basic morphological operations are performed on the video to isolate the QR code
 
 Now that we have the outline of the sqare of the QR code, we need to find the corners in order. This is important to get the orientation of the QR code.
 
+
 [![ezgif com-optimize](https://user-images.githubusercontent.com/35636842/218370397-a4d85010-2d91-48cc-bdc0-b21f8113ec73.gif)](https://youtu.be/vW_rvp5WV1s)
 
 ### 3. Image Imposition on tag
