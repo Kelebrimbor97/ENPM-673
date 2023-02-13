@@ -27,6 +27,8 @@ Note: If the code is clones, please ensure that you check the paths in the codes
 Please find the output video links below:
 
 ### 1. Morphological Operations
+![Morphological_Image_processing_AdobeExpress](https://user-images.githubusercontent.com/35636842/218368728-35bad771-17fc-4388-a5d9-7d82de198b73.gif)
+
 [![Morphological Operations](https://img.youtube.com/vi/K2lSg51COJ0/0.jpg)](https://youtu.be/K2lSg51COJ0)
 
 ### 2. Ordered Corner Detection
