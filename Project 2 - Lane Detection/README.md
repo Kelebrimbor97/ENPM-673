@@ -32,13 +32,25 @@ A video created by combining the histogram equalized frames. Clockwise from top 
 [![histogram](https://user-images.githubusercontent.com/35636842/218379612-6e042bc0-b92b-4b8e-9460-f5fd00923c7b.gif)](https://youtu.be/3OaGxncNj_I)
 
 ### 2. Lane stripe detection
-[![Lane stripe detection](https://img.youtube.com/vi/t7pD86ErhBU/0.jpg)](https://youtu.be/t7pD86ErhBU)
+
+We first perform lane stripe detection. For this we use HoughP instead of Hough lines to only detect the stripes and not go beyond the need bounds of the lines.
+
+[![problem2_op](https://user-images.githubusercontent.com/35636842/218382206-0e98557e-a7de-4349-8183-6a8e4db63050.gif)](https://youtu.be/t7pD86ErhBU)
   
 ### 3. Warped Lanes
-[![Warped Lanes](https://img.youtube.com/vi/qWIDrhfOeQ4/0.jpg)](https://youtu.be/qWIDrhfOeQ4)
+
+This is an ouput of the warped lanes by using a Homographical transform.
+  
+[![warped_gray](https://user-images.githubusercontent.com/35636842/218382655-66a89d56-5014-4eee-91ce-8cbe092e6afd.gif)](https://youtu.be/qWIDrhfOeQ4)
 
 ### 4. Sliding Window Output
-[![Sliding Window Output](https://img.youtube.com/vi/SXZhIh9PfuU/0.jpg)](https://youtu.be/SXZhIh9PfuU)
+
+The sliding window detection method is used to detect the left and right edges of the lane.
+  
+[![warped_thresh](https://user-images.githubusercontent.com/35636842/218383838-3d48d477-9321-4d94-9810-e506841d109a.gif)](https://youtu.be/SXZhIh9PfuU)
   
 ### 5. Lane Detection
-[![Lane Detection](https://img.youtube.com/vi/G_Rur_1il5k/0.jpg)](https://youtu.be/G_Rur_1il5k)
+  
+And finally, lane detection!
+  
+[![problem3_op](https://user-images.githubusercontent.com/35636842/218384498-d41f5adf-44d7-47cc-bd18-cd1b7b23b332.gif)](https://youtu.be/G_Rur_1il5k)
