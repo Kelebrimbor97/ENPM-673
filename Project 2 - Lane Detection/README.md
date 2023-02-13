@@ -18,7 +18,7 @@ Provide input or output paths if required. Default paths within project director
 2. For problem 2 - input-'whiteline.mp4' ;output - 'Output/problem2_op.mp4'
 3. For problem 3 - input-'challenge.mp4' ;output - 'Output/problem3_op.mp4'
   
-## Output Videos
+## Solutions
   
 ### 1. Histogram Equalization
 
