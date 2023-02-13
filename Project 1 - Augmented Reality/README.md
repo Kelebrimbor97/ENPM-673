@@ -36,7 +36,7 @@ Now that we have the outline of the sqare of the QR code, we need to find the co
 ### 3. Image Imposition on tag
 
 Finally, we impose the image onto the marker.
-[![Testudo_Imposition_on_Fiducial_Marker](https://user-images.githubusercontent.com/35636842/218371698-48caacd1-4087-48ff-880e-47d440ba41d6.gif)(https://youtu.be/-3TvXzFVbGk)]
+[![Testudo_Imposition_on_Fiducial_Marker](https://user-images.githubusercontent.com/35636842/218371698-48caacd1-4087-48ff-880e-47d440ba41d6.gif)](https://youtu.be/-3TvXzFVbGk)
 
 ### 4. Cube Imposition on tag
 [![Cube Imposition on tag](https://img.youtube.com/vi/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
