@@ -2,7 +2,9 @@
 
 ## Project Description
 
-The task of this project was to detect lanes and their curvature. Detailed process is provided in the report.
+This project is aimed at detecting lanes in a video stream of a driving scenario. The algorithm processes each frame of the video, identifies the lane markings and overlay the markings onto the original frame to highlight the detected lanes.
+
+The lane detection algorithm makes use of computer vision techniques such as color thresholding, edge detection, and Hough line transforms to identify the lane markings in each frame. The algorithm first applies color thresholding to the image to extract pixels that correspond to the lane markings. Then, the edge detection algorithm is used to identify the edges in the thresholded image. Finally, the Hough line transform is used to identify the lines in the edge-detected image and fit these lines to the lane markings.
 
 ## Running Instructions
 
@@ -19,7 +21,15 @@ Provide input or output paths if required. Default paths within project director
 ## Output Videos
   
 ### 1. Histogram Equalization
-[![Histogram Equalization](https://img.youtube.com/vi/3OaGxncNj_I/0.jpg)](https://youtu.be/3OaGxncNj_I)
+
+A video created by combining the histogram equalized frames. Clockwise from top left we have:
+
+1. The original frame
+2. Traditional Histogram Equalization
+3. Contrast Limited Adaptive Histogram Equalization
+4. Adaptive Histogram Equalization
+
+[![histogram](https://user-images.githubusercontent.com/35636842/218379612-6e042bc0-b92b-4b8e-9460-f5fd00923c7b.gif)](https://youtu.be/3OaGxncNj_I)
 
 ### 2. Lane stripe detection
 [![Lane stripe detection](https://img.youtube.com/vi/t7pD86ErhBU/0.jpg)](https://youtu.be/t7pD86ErhBU)
