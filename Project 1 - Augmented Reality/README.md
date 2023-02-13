@@ -28,10 +28,15 @@ Basic morphological operations are performed on the video to isolate the QR code
 [![Morphological_Image_processing_AdobeExpress](https://user-images.githubusercontent.com/35636842/218368728-35bad771-17fc-4388-a5d9-7d82de198b73.gif)](https://youtu.be/K2lSg51COJ0)
 
 ### 2. Ordered Corner Detection
+
+Now that we have the outline of the sqare of the QR code, we need to find the corners in order. This is important to get the orientation of the QR code.
+
 [![ezgif com-optimize](https://user-images.githubusercontent.com/35636842/218370397-a4d85010-2d91-48cc-bdc0-b21f8113ec73.gif)](https://youtu.be/vW_rvp5WV1s)
 
 ### 3. Image Imposition on tag
-[![Image Imposition on tag](https://img.youtube.com/vi/-3TvXzFVbGk/0.jpg)](https://youtu.be/-3TvXzFVbGk)
+
+Finally, we impose the image onto the marker.
+[![Testudo_Imposition_on_Fiducial_Marker](https://user-images.githubusercontent.com/35636842/218371698-48caacd1-4087-48ff-880e-47d440ba41d6.gif)(https://youtu.be/-3TvXzFVbGk)]
 
 ### 4. Cube Imposition on tag
 [![Cube Imposition on tag](https://img.youtube.com/vi/iCmC9NynMJg/0.jpg)](https://youtu.be/iCmC9NynMJg)
